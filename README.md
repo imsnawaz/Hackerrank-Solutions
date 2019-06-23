@@ -7,4 +7,3 @@ full marks.
 1. Problem Solving
 2. 30 Days of Code
 3. Interview Preparation Kit
-4. Sql
