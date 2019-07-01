@@ -18,4 +18,4 @@ Feel free to contribute
 4. Submit Pull Request
 
 # Report
-Report an error.
+Report an [error](https://github.com/imsnawaz/Hackerrank-Solutions/issues)
