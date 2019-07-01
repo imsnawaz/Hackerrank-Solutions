@@ -12,10 +12,10 @@ Interview Preparation Kit subsection of Hackerrank platform.
 
 # Contributing
 Feel free to contribute
-1. Fork
-2. Commit
-3. Push
-4. Submit Pull Request
+- Fork
+- Commit
+- Push
+- Submit Pull Request
 
 # Report
 Report an [error](https://github.com/imsnawaz/Hackerrank-Solutions/issues)
