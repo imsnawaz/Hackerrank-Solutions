@@ -9,6 +9,7 @@ Interview Preparation Kit subsection of Hackerrank platform.
 2. 30 Days of Code
 3. Interview Preparation Kit
 4. Language Proficiency - Python
+5. Regex
 
 # Contributing
 Feel free to contribute
