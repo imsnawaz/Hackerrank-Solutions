@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 public class ipAddressValidation {
 
     public static void main(String[] args) throws IOException{
-        Pattern ip4 = Pattern.compile("^((2[0-4]\\d|25[0-5]|[01]?\\d{0,2})\\.){3}(2[0-4]\\d|25[0-5]|[01]?\\d{0,2})$");
+        Pattern ip4 = Pattern.compile("^((2[0-4]\\d|25[0-5]|1\\d{2}|[1-9]\\d|\\d)\\.){3}(2[0-4]\\d|25[0-5]|1\\d{2}|[1-9]\\d|\\d)$");
         Pattern  ip6 = Pattern.compile("^([\\da-f]{1,4}:){7}[\\da-f]{1,4}$");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuffer sb = new StringBuffer();
